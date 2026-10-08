@@ -1,0 +1,8 @@
+obj/
+search
+data/hpatches-sequences-release/
+data/mirflickr25k/
+build/
+ssh_config
+src/*
+!src/.gitkeep
